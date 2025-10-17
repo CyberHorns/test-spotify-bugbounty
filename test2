@@ -6,11 +6,11 @@
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Fri, 17 Oct 2025 20:35:22 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/CyberHorns/test-spotify-bugbounty/refs/heads/main/test_redirect" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Kryminatorium]]></author>
-		<copyright><![CDATA[Kryminatorium]]></copyright>
+		<author><![CDATA[xxx]]></author>
+		<copyright><![CDATA[xxx]]></copyright>
 		<language><![CDATA[pl]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>Kryminatorium</itunes:author>
+		<itunes:author>xxx</itunes:author>
 		<itunes:summary>Posłuchaj o seryjnych zabójcach, tajemniczych zaginięciach i zbrodniach z Archiwum X. W każdy poniedziałek inna prawdziwa sprawa kryminalna. </itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
