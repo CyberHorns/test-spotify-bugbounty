@@ -5,7 +5,7 @@
 		<link>http://www.kryminatorium.pl/</link>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Fri, 17 Oct 2025 20:35:22 GMT</lastBuildDate>
-		<atom:link href="https://anchor.fm/s/ff32104c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://raw.githubusercontent.com/CyberHorns/test-spotify-bugbounty/refs/heads/main/test_redirect" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Kryminatorium]]></author>
 		<copyright><![CDATA[Kryminatorium]]></copyright>
 		<language><![CDATA[pl]]></language>
