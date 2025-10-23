@@ -14,7 +14,7 @@
 		<itunes:summary>Posłuchaj o seryjnych zabójcach, tajemniczych zaginięciach i zbrodniach z Archiwum X. W każdy poniedziałek inna prawdziwa sprawa kryminalna. </itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
-			<itunes:name>x OR 1=1</itunes:name>
+			<itunes:name>x ' OR 'x'='x'</itunes:name>
 			<itunes:email>wrong email</itunes:email>	
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
